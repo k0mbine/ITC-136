@@ -7,6 +7,6 @@ date     # What time is it on the machine (WHEN)
 
 
 /var/root # cat example.sh                                                      
-!#/bin/sh                                                                       
+#!/bin/sh                                                                       
                                                                                 
 echo "WOOHOOOOOOOOOO"
