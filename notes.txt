@@ -43,3 +43,4 @@ kubuntu - ubuntu's own version of kde.
 
 dpkg - used to remove any package or plugin. Alternatively, you can use apt-get remove.
 
+apt-cache search - search all packages with any keyword
