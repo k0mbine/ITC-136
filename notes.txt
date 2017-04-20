@@ -31,7 +31,7 @@ apt-get install - installs any package you enter
 
 apt-get - package management system. allows you to add different packages from repositories online. It'll track updates as packages are added to the repositories. Also works with the packaging system to handle the pendencies. 
 
-kde - windows management system. 
+kde - popular desktop environment for Linux
 
 markup language - language that determines the presentation of text. HTML is an example.
 
@@ -44,3 +44,53 @@ kubuntu - ubuntu's own version of kde.
 dpkg - used to remove any package or plugin. Alternatively, you can use apt-get remove.
 
 apt-cache search - search all packages with any keyword
+
+ps - displays processes running on the terminal
+
+ps aux - displays all processes running on the computer
+
+what the | (pipe) does is take output from one command and put it into another command
+
+up arrow brings up the command you entered last
+
+PID - process ID
+
+TTY - if the command is outputting to the console, it will have a TTY value attributed to it
+
+ps aux | grep [thing] - search for a thing in a thing
+
+top - lists whats using the most CPU by default
+
+swap - RAM thats stored on your hard drive
+
+lsof - list of open files
+
+sudo su - makes you become super user
+
+more - dumb navigation system, use less instead
+
+Everything in Linux is a file
+
+man [command] - gives you help on a specific command
+
+pstree - lists processes in a tree, so you can see what the original processes are, and what the child processes are. 
+
+whereis [thing] - lists where the binary file is
+
+whereis libreoffice - outputs /usr/bin/libreoffice. In order to start up Libre Office, simply type /usr/bin/libreoffice.
+
+ls - lists all files in directory
+
+l -l - shows all permissions on all of the files
+
+rwx-rwx-rwx - means everyone can read, write, and execute the file
+
+drwxr-xr-x - the 'd' means it's a directory
+
+chmod +x or +r or what have you - changes permissions on any file
+
+lrwxrwxrwx - the 'l' means its a symlink
+
+symlink - 
+
+cd ~ - means 'go to your home directory'
