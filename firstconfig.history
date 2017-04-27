@@ -1,0 +1,147 @@
+    1  sudo su
+    2  sl
+    3  apt-cache search starwars
+    4  apt-get install xscreensaver-gl-extra
+    5  cd /
+    6  apt-get install xscreensaver-gl-extra
+    7  sudo su
+    8  kill 2087
+    9  ps aux | grep firefox
+   10  kill 3065
+   11  ps aux
+   12  ps aux | more
+   13  ps aux | grep terminal
+   14  kill 3157
+   15  exit
+   16  ps aux | grep icon
+   17  kill 3244
+   18  ps aux | grep process
+   19  top 
+   20  lsof | more
+   21  sudo su
+   22  /usr/bin/libreoffice and
+   23  ps aux | grep libreoffice
+   24  kill 3615
+   25  /usr/bin/libreoffice
+   26  /usr/bin/libreoffice&
+   27  ls
+   28  ls music
+   29  ls /music
+   30  ls /
+   31  ls -l
+   32  ls -l /usr/bin/libreoffice
+   33  chmod 644 /usr/bin/libreoffice
+   34  chmod 644 /usr/bin/libreoffice/program/soffice
+   35  sudo su
+   36  sl
+   37  whoami
+   38  cd
+   39  pwd
+   40  ps
+   41  ps1
+   42  [18~~ED~ps aux
+   43  ps aux
+   44  ps aux | more
+   45  more
+   46  ps aux
+   47  more
+   48  ps aux | less
+   49  ps aux | more
+   50  ps aux | less
+   51  ps aux | more
+   52  ps aux | grep firefox
+   53  kill 2087
+   54  cd Desktop/
+   55  echo "test" >> test.text
+   56  ls
+   57  echo "test" >> test.txt
+   58  echo "test" >> test.sh
+   59  echo "cal" >> test.sh
+   60  cat test.sh
+   61  bash test.sh
+   62  vim test.sh
+   63  sudo apt install vim
+   64  vim test.sh
+   65  bash test.sh
+   66  vim test.sh
+   67  bash test.sh
+   68  vim test.sh
+   69  bash test.sh
+   70  vim test.sh
+   71  bash test.sh
+   72  vim test.sh
+   73  bash test.sh
+   74  ls
+   75  test.sh >> Desktop/
+   76  emac
+   77  emacs
+   78  apt-get install git
+   79  cd
+   80  apt-get install git
+   81  su 
+   82  sudo su
+   83  ls
+   84  cd git-repos
+   85  ls
+   86  ls -la
+   87  git clone https://github.com/k0mbine/ITC-136.git
+   88  sudo su
+   89  ls
+   90  cd git-repos
+   91  ls
+   92  cd ITC-136
+   93  git config --global user.email "k0mbine57@gmail.com"
+   94  git config --global.user-name "k0mbine"
+   95  git config --global.user.name "k0mbine"
+   96  ls
+   97  history >> firstconfig.history
+   98  ls
+   99  cd .
+  100  cd ..
+  101  rm git-repos
+  102  ls
+  103  remove git-repos
+  104  rdir
+  105  rmdir git-repos
+  106  ls
+  107  cd git.repos
+  108  ls 
+  109  cd git-repos
+  110  ls
+  111  ITC-136
+  112  cd ITC-136
+  113  ls
+  114  rm 1.PNG
+  115  cd /
+  116  cd ..
+  117  git clone https://github.com/k0mbine/ITC-136.git
+  118  ls
+  119  cd home
+  120  git clone https://github.com/k0mbine/ITC-136.git
+  121  cd /
+  122  ls
+  123  cd ..
+  124  chmod 777 /
+  125  cd home
+  126  ls
+  127  cd k0mbinr
+  128  chmod 777 k0mbinr
+  129  chmod 777 k0mbinr/
+  130  chmod 777 / k0mbinr
+  131  ls
+  132  cd git-repos
+  133  ls
+  134  cd ITC-136
+  135  history >> firstconfig.history
+  136  cd /
+  137  cd home
+  138  ls
+  139  cd k0mbinr
+  140  cd ~/desktop
+  141  ls
+  142  cd Desktop
+  143  git clone https://github.com/k0mbine/ITC-136.git
+  144  ls
+  145  cd ITC-136
+  146  ls
+  147  history >> firstconfig.history
