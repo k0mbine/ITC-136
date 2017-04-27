@@ -94,3 +94,23 @@ lrwxrwxrwx - the 'l' means its a symlink
 symlink - 
 
 cd ~ - means 'go to your home directory'
+
+git - a revision control system. Used in text-based OS's with no GUI.
+
+Linux kernel created in 1991
+
+in 2002, Linux used a distributed version control system called bitkeeper
+
+github - for-profit company. Largest code repository service. Centralized place to distribute your code from. 
+
+repository - folder for a project
+
+commit - what gives git most of its power. Different from a push in that it's a change made to your local code, and not something online.
+
+branch - new dev path we can follow as long as we'd like without interfering with our original path. If we mess something up in our branch, we can just return to our master branch and continue as if nothing ever happened.
+
+fork - like a branch, but it creates an entirely new repo for you to manage on your own, essentially borrowing it from another person. Some repos have thousands of people forking codes and trying to make it better.
+
+.gitignore - a file that tells git what to ignore. 
+
+pull request - 
