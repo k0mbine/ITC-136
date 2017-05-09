@@ -1,0 +1,6 @@
+1. sudo su
+2. apt-get install ssh erver wahawlahw
+vim sshd_config and change password authentication from comment
+systemctl restart sshd
+ifconfig (interface config)
+adduser test1
