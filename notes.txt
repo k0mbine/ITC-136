@@ -115,3 +115,11 @@ fork - like a branch, but it creates an entirely new repo for you to manage on y
 
 pull request - 
 
+var - directory for temporary files
+
+tty - regular terminal device. Direct terminal connection.
+
+pts - pseudo terminal slave
+
+pseudo terminals - 
+
